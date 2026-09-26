@@ -694,6 +694,15 @@ After completing this project, the following Git and GitHub concepts are demonst
 
 ---
 
+git difference changes or the response output
+#############################################
+git diff
+diff --git a/main.py b/main.py
+index f5cf5c1..c26d022 100644
+--- a/main.py
++++ b/main.py
+@@ -4,7 +4,7 @@ from utils import print_heading, calculate_course_fee
+
 # Submission
 
 Submit the public GitHub repository URL:
