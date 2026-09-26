@@ -4,7 +4,7 @@ from utils import print_heading, calculate_course_fee
 
 
 def main():
-    print_heading("Python Learning Platform")
+    print_heading("Python Learning Platform: Updated")
 
     student = Student(
         student_id=101,
